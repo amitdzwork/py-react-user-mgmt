@@ -1,3 +1,4 @@
+A full stack application that uses Python, SQLAlchemy, PostGresSQL, and React contanirized on Docker.
 # Run the App
 
 1. Install Docker Desktop
