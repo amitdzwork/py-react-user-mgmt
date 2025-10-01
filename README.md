@@ -1,4 +1,4 @@
-A full stack application that uses Python-FastAPI, PostGresSQL, and React contanirized on Docker.
+A full stack application that uses Python-FastAPI, PostGresql, and React contanirized on Docker.
 # Run the App
 
 1. Install Docker Desktop
